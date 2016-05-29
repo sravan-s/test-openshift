@@ -1,0 +1,25 @@
+{
+  "name": "test-openshift",
+  "version": "0.0.0",
+  "description": "Node app to test open shift",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sravan-s/test-openshift.git"
+  },
+  "keywords": [
+    "openshift"
+  ],
+  "author": "ess_ess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sravan-s/test-openshift/issues"
+  },
+  "homepage": "https://github.com/sravan-s/test-openshift#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
